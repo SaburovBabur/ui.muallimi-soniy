@@ -1,3 +1,7 @@
+export const title = () => `Arab tilida 0 dan o\`qishni va yozishni o\`rganish.`
+export const description = () =>
+	`Bu kursimizda siz arab tilidagi barcha 28 xarfni o’qilishini va yozilishini o’rganasiz, undan tashqari tajvid ilmini, ya’ni Alloh taoloning kalomi bo’lmish Quronnni to’gri o’qish qoidalarini o’zlashtirasiz, إن شاء الله.`
+
 export const courses: () => TypeCourse[] = () => [
 	{
 		slug: 'durusul-lugah-1-kitob',
