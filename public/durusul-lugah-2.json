@@ -1,0 +1,1792 @@
+{
+	"kind": "youtube#playlistItemListResponse",
+	"etag": "GfwqWKZyjmRU2QkFVf-54722ihQ",
+	"items": [
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "xAyDO7QjGxnERtb0q-5chH9HH3s",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai4yODlGNEE0NkRGMEEzMEQy",
+			"snippet": {
+				"publishedAt": "2022-03-07T19:45:15Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Yangi dars taqdimoti! | Oson arab tili 2-kitob | Ulashing!",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/wL_llo3Hp1g/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/wL_llo3Hp1g/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/wL_llo3Hp1g/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/wL_llo3Hp1g/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/wL_llo3Hp1g/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 0,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "wL_llo3Hp1g"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "wL_llo3Hp1g",
+				"videoPublishedAt": "2022-03-10T03:30:11Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "c2BG_w3d4lrWroyQzadTWsvy6p0",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai4wMTcyMDhGQUE4NTIzM0Y5",
+			"snippet": {
+				"publishedAt": "2022-03-08T12:32:30Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 1-dars | 2-kitob",
+				"description": "Yangi so'zlar: \nذَكِيٌّ - zukko\nغَبِيٌّ - tentak\nخُلُقٌ - xulq, odob\nمِائَةٌ - yuz (100)\nالْفٌ - ming (1000)\nروبية - rupya\nمتزوج - oilali\nعَزَبُ - bo'ydoq \nيَهُوديَّ - yahudiy\nمُعْجَمٌ - lug'at \nدولار - dollar\nغالِ - qimmat \nناجِحٌ - imtihondan o'tgan\nصَفْحَةٌ - sahifa \nكُمٌّ - yeng",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/_h4tD4CxLEQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/_h4tD4CxLEQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/_h4tD4CxLEQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/_h4tD4CxLEQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/_h4tD4CxLEQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 1,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "_h4tD4CxLEQ"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "_h4tD4CxLEQ",
+				"videoPublishedAt": "2022-03-17T04:00:11Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "oObp1qh0rxy9_EY4vPBgCvH_h2E",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai41MjE1MkI0OTQ2QzJGNzNG",
+			"snippet": {
+				"publishedAt": "2022-03-11T18:43:20Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 2-dars | 2-kitob",
+				"description": "Yangi so'zlar:\nلقاء - uchrashuv\nجيد - yaxshi\nجيب - cho'ntak\nنهر - anhor\nبرقية - telegramma\nمَصرِفٌ - bank\nمَكْتَبُ الْبَرِيدِ -  pochta xona",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/c3XjLN470g0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/c3XjLN470g0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/c3XjLN470g0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/c3XjLN470g0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/c3XjLN470g0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 2,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "c3XjLN470g0"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "c3XjLN470g0",
+				"videoPublishedAt": "2022-03-19T04:00:19Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "hZsl84dYH4Nts0rYpLeDE3JMqww",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai4wOTA3OTZBNzVEMTUzOTMy",
+			"snippet": {
+				"publishedAt": "2022-03-13T20:03:57Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 3-dars | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/NZF1p5987lQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/NZF1p5987lQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/NZF1p5987lQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/NZF1p5987lQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/NZF1p5987lQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 3,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "NZF1p5987lQ"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "NZF1p5987lQ",
+				"videoPublishedAt": "2022-03-21T04:00:05Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "aMRqiOWx3VhqkeIAlgAMO3TmEQ8",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai41MzJCQjBCNDIyRkJDN0VD",
+			"snippet": {
+				"publishedAt": "2022-03-20T19:35:06Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 4-dars | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/iOPvFMkx3yI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/iOPvFMkx3yI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/iOPvFMkx3yI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/iOPvFMkx3yI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/iOPvFMkx3yI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 4,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "iOPvFMkx3yI"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "iOPvFMkx3yI",
+				"videoPublishedAt": "2022-03-23T04:00:14Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "MdKtOdekHJmTK-kGVZ11u3qh_SM",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai5DQUNERDQ2NkIzRUQxNTY1",
+			"snippet": {
+				"publishedAt": "2022-03-22T17:03:31Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 5-dars | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/V77Wt4vHRdI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/V77Wt4vHRdI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/V77Wt4vHRdI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/V77Wt4vHRdI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/V77Wt4vHRdI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 5,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "V77Wt4vHRdI"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "V77Wt4vHRdI",
+				"videoPublishedAt": "2022-03-25T04:00:12Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "PVSVh4EgPBWccQPz8Z5kxlIoJbI",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai45NDk1REZENzhEMzU5MDQz",
+			"snippet": {
+				"publishedAt": "2022-03-25T19:36:54Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 6-dars (a) | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/leZ3O25xszc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/leZ3O25xszc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/leZ3O25xszc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/leZ3O25xszc/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/leZ3O25xszc/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 6,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "leZ3O25xszc"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "leZ3O25xszc",
+				"videoPublishedAt": "2022-03-27T04:00:11Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "BcvdrgQNmhJigBqyuYmEKysKJhg",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai40NzZCMERDMjVEN0RFRThB",
+			"snippet": {
+				"publishedAt": "2022-03-31T16:51:44Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 6-dars (b) | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/C2oYxqx0SvI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/C2oYxqx0SvI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/C2oYxqx0SvI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/C2oYxqx0SvI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/C2oYxqx0SvI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 7,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "C2oYxqx0SvI"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "C2oYxqx0SvI",
+				"videoPublishedAt": "2022-03-30T04:00:08Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "_JhEOZslunlyLHsKDqXXwUmn62g",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai5GNjNDRDREMDQxOThCMDQ2",
+			"snippet": {
+				"publishedAt": "2022-03-30T17:49:51Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 7-dars | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/d7WhU_5MTNA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/d7WhU_5MTNA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/d7WhU_5MTNA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/d7WhU_5MTNA/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/d7WhU_5MTNA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 8,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "d7WhU_5MTNA"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "d7WhU_5MTNA",
+				"videoPublishedAt": "2022-04-09T04:00:25Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "Ab0DotSF0mnNniD61kI3ozFl6iw",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai5EMEEwRUY5M0RDRTU3NDJC",
+			"snippet": {
+				"publishedAt": "2022-04-01T18:24:34Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 8-dars | 2-kitob",
+				"description": "Ushbu darsda moziy (o'tgan zamon) fe'li yakunlanadi.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/MKEU1OH73oY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/MKEU1OH73oY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/MKEU1OH73oY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/MKEU1OH73oY/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/MKEU1OH73oY/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 9,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "MKEU1OH73oY"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "MKEU1OH73oY",
+				"videoPublishedAt": "2022-04-17T04:00:06Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "aHAG_a31VtrD4tK97F8FvW9Y4VI",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai45ODRDNTg0QjA4NkFBNkQy",
+			"snippet": {
+				"publishedAt": "2022-04-03T09:21:52Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 9-dars | 2-kitob",
+				"description": "Ushbu darsda o'tilgan qoidalar:\n1) Nidodan keyin izofa kelsa, muzof qismi nasb bo'ladi\n2) Muannas to'g'ri ko'plik nasb holatda kasra bo'ladi",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/S7VM42KwaL0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/S7VM42KwaL0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/S7VM42KwaL0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/S7VM42KwaL0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/S7VM42KwaL0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 10,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "S7VM42KwaL0"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "S7VM42KwaL0",
+				"videoPublishedAt": "2022-04-23T10:45:01Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "i7vXj9Ki4pQxQT394AfhNmFzVUY",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai4yQUE2Q0JEMTk4NTM3RTZC",
+			"snippet": {
+				"publishedAt": "2022-04-23T07:46:04Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 10-dars | 2-kitob",
+				"description": "Muzoriy - hozirgi va kelasi zamon. \nArab tilida hozirgi zamonga ham, kelasi zamonga ham bir shakl qo'llanadi.\n\nYangi so'zlar: \nدَائِمًا - doimo \nأَحْيَانًا - ba'zida\nمَرَّةً أُخْرَى - boshqa martta\nمَكْتَبٌ - ofis\nعَامِلٌ - ishchi\nطُولٌ - bo'y\nعَرْضٌ - en\nمَسَافَةٌ - masofa\nعَمِلَ - ishladi, amal qildi\nفَعَلَ - qildi, bajardi\nرَكَعَ - ruku' qildi\nسَجَدَ - sajda qildi\nرَكِبَ - mindi",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/s--HJCPHIes/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/s--HJCPHIes/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/s--HJCPHIes/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/s--HJCPHIes/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/s--HJCPHIes/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 11,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "s--HJCPHIes"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "s--HJCPHIes",
+				"videoPublishedAt": "2022-04-28T04:00:30Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "BVf93OixLDDh20m098ZDftrewW0",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai4zMDg5MkQ5MEVDMEM1NTg2",
+			"snippet": {
+				"publishedAt": "2022-04-06T19:04:33Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 11-dars | 2-kitob",
+				"description": "Ushbu darsda o'tilgan qoidalar:\n1) Muzoriy fe'lining davomi\n2) Masdar - ish harakat nomi",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/tZeG6cK1A3U/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/tZeG6cK1A3U/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/tZeG6cK1A3U/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/tZeG6cK1A3U/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/tZeG6cK1A3U/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 12,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "tZeG6cK1A3U"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "tZeG6cK1A3U",
+				"videoPublishedAt": "2022-05-02T04:00:15Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "Jv8VplU0nh_osGMN018nviQGNM8",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai41Mzk2QTAxMTkzNDk4MDhF",
+			"snippet": {
+				"publishedAt": "2022-04-08T07:50:12Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 12-dars | 2-kitob",
+				"description": "Ushbu darsda o'tilgan qoidalar:\n1) Muzoriy fe'lining davomi\n2) \"Inna\" va \"Anna\"ning farqi",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/6iO0KXkuyOw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/6iO0KXkuyOw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/6iO0KXkuyOw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/6iO0KXkuyOw/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/6iO0KXkuyOw/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 13,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "6iO0KXkuyOw"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "6iO0KXkuyOw",
+				"videoPublishedAt": "2022-05-04T04:00:03Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "cageTA4MEp1yOUkMPucrY3EO6rY",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai5EQUE1NTFDRjcwMDg0NEMz",
+			"snippet": {
+				"publishedAt": "2022-04-08T11:10:08Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 13-dars | 2-kitob",
+				"description": "Ushbu darsda o'tilgan qoidalar:\n1) Muzoriy fe'lining xulosasi",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/RXiZaF4Qnqo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/RXiZaF4Qnqo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/RXiZaF4Qnqo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/RXiZaF4Qnqo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/RXiZaF4Qnqo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 14,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "RXiZaF4Qnqo"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "RXiZaF4Qnqo",
+				"videoPublishedAt": "2022-05-06T04:00:08Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "rnYcp4sSHKIBP1X8S80tKeymIlk",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai41QTY1Q0UxMTVCODczNThE",
+			"snippet": {
+				"publishedAt": "2022-04-08T18:43:02Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 14-dars | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/GcoPt_e9ERM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/GcoPt_e9ERM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/GcoPt_e9ERM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/GcoPt_e9ERM/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/GcoPt_e9ERM/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 15,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "GcoPt_e9ERM"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "GcoPt_e9ERM",
+				"videoPublishedAt": "2022-05-08T04:00:05Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "UdMEKiC-5uZPt9bSHoCdlCEPPIk",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai4yMUQyQTQzMjRDNzMyQTMy",
+			"snippet": {
+				"publishedAt": "2022-04-09T20:34:44Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 15-dars | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/bKiuq3J0EUw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/bKiuq3J0EUw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/bKiuq3J0EUw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/bKiuq3J0EUw/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/bKiuq3J0EUw/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 16,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "bKiuq3J0EUw"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "bKiuq3J0EUw",
+				"videoPublishedAt": "2022-05-10T04:00:14Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "3Rj5QYE7gjfFkVfydfkotT5HG2I",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai45RTgxNDRBMzUwRjQ0MDhC",
+			"snippet": {
+				"publishedAt": "2022-04-15T13:59:43Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 16-dars | 2-kitob",
+				"description": "Ushbu darsda o'tilgan qoidalar:\n1) Xohlamoq \"أرادَ\" fe'lining ishlatilishi\n2) Ranglarning qo'llanilishi\n3) Amr va Umar ismi yozilishidagi farq\n\nKitobning pdf shakli https://t.me/hakimshoshiy/81",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/0UIR4qrpGQs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/0UIR4qrpGQs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/0UIR4qrpGQs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/0UIR4qrpGQs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/0UIR4qrpGQs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 17,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "0UIR4qrpGQs"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "0UIR4qrpGQs",
+				"videoPublishedAt": "2022-05-12T04:00:00Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "I1il9weGCOlDXCJEKcckp8qDcuU",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai5ENDU4Q0M4RDExNzM1Mjcy",
+			"snippet": {
+				"publishedAt": "2022-04-16T12:54:23Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 17-dars | 2-kitob",
+				"description": "Ushbu darsda o'tilgan qoidalar:\n1) Ushbu \"أُريدُ أنْ أذْهَبَ\" ning ma'nosi\n2) Ushbu \"لِأَفْهَمَ\" tushunishim uchun jumlasi\n3) Ushbu \"مُنْذُ\" so'zining qo'llanishi",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/w11ZVroMdoc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/w11ZVroMdoc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/w11ZVroMdoc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/w11ZVroMdoc/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/w11ZVroMdoc/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 18,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "w11ZVroMdoc"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "w11ZVroMdoc",
+				"videoPublishedAt": "2022-05-14T04:00:31Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "UWB8b0L-zvaXDUPav7L1FuQEbBQ",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai4yMDhBMkNBNjRDMjQxQTg1",
+			"snippet": {
+				"publishedAt": "2022-04-20T11:54:18Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 18-dars | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/P5Nmvi0Skt0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/P5Nmvi0Skt0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/P5Nmvi0Skt0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/P5Nmvi0Skt0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/P5Nmvi0Skt0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 19,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "P5Nmvi0Skt0"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "P5Nmvi0Skt0",
+				"videoPublishedAt": "2022-05-16T04:00:13Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "FAIhca9UvVZpWyik8-cD7rjXjyE",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai5GM0Q3M0MzMzY5NTJFNTdE",
+			"snippet": {
+				"publishedAt": "2022-04-22T05:27:36Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 19-dars | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/mq7D8eR1M_4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/mq7D8eR1M_4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/mq7D8eR1M_4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/mq7D8eR1M_4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/mq7D8eR1M_4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 20,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "mq7D8eR1M_4"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "mq7D8eR1M_4",
+				"videoPublishedAt": "2022-05-18T04:00:30Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "sZ4wiNkaTdfL_9p39-Op3Hg9sMo",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai4zRjM0MkVCRTg0MkYyQTM0",
+			"snippet": {
+				"publishedAt": "2022-04-22T05:29:45Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 20-dars | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/aDSdk1p7WvA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/aDSdk1p7WvA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/aDSdk1p7WvA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/aDSdk1p7WvA/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/aDSdk1p7WvA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 21,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "aDSdk1p7WvA"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "aDSdk1p7WvA",
+				"videoPublishedAt": "2022-05-20T04:00:00Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "2uovINwWS3unT0uXy3T16EdvzA0",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai45NzUwQkI1M0UxNThBMkU0",
+			"snippet": {
+				"publishedAt": "2022-04-22T05:30:51Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 21-dars | 2-kitob",
+				"description": "Bu darsdagi mavzular:\n1) Jazm qiluvchi \"Lam\" va \"lamma\" harflari\n2) Muzoriyning jazm holatda \"nu:n\"i tushib qolishi\n\nYangi so'zlar:\nKelajak - إِسْتِقْبَالٌ\nRais - رَئِيسٌ\nFarq - فَرْقٌ\nMisol - مِثَالٌ\nShoshmay tur - مَهْلًا\nQism - قِسْمٌ\nKeldi - حَضَرَ\nDam ol - اسْتَرِحْ\nKeldi - أَتَى",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/PsgLkazqbqQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/PsgLkazqbqQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/PsgLkazqbqQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/PsgLkazqbqQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/PsgLkazqbqQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 22,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "PsgLkazqbqQ"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "PsgLkazqbqQ",
+				"videoPublishedAt": "2022-05-22T04:00:18Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "UIJhmvPriCzm7UtsjNtP2uu-dIU",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai5DNzE1RjZEMUZCMjA0RDBB",
+			"snippet": {
+				"publishedAt": "2022-04-22T11:32:45Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 22-dars | 2-kitob",
+				"description": "Muzoriyning uch xil holati haqida xulosa",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/4ZEeft5Xcho/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/4ZEeft5Xcho/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/4ZEeft5Xcho/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/4ZEeft5Xcho/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/4ZEeft5Xcho/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 23,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "4ZEeft5Xcho"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "4ZEeft5Xcho",
+				"videoPublishedAt": "2022-05-24T04:00:00Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "COrDD3rzYSNqQHNHjwhhl4LBwaU",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai43MTI1NDIwOTMwQjIxMzNG",
+			"snippet": {
+				"publishedAt": "2022-04-22T12:57:03Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 23-dars | 2-kitob",
+				"description": "Muzakkar to'g'ri ko'plikning holatlari\nMuzakkar to'g'ri ko'plikning raf alomati \"vav\" harfi\nNasb va Jar alomati \"ya\" harfi hisoblanadi.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/K-MzxBMFra8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/K-MzxBMFra8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/K-MzxBMFra8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/K-MzxBMFra8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/K-MzxBMFra8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 24,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "K-MzxBMFra8"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "K-MzxBMFra8",
+				"videoPublishedAt": "2022-05-26T04:00:06Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "tLLaU2S583sTfl5liLIPeRRZVeg",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai5DQ0MyQ0Y4Mzg0M0VGOEYw",
+			"snippet": {
+				"publishedAt": "2022-04-23T07:36:33Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 24-dars | 2-kitob",
+				"description": "Ushbu darsda sonlar haqida xulosa qilinadi.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/wC9wf14QuxM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/wC9wf14QuxM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/wC9wf14QuxM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/wC9wf14QuxM/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/wC9wf14QuxM/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 25,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "wC9wf14QuxM"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "wC9wf14QuxM",
+				"videoPublishedAt": "2022-05-28T04:00:14Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "r92oWJLw3klvupOEBA10JaC8UEQ",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai5DMkU4NTY1QUFGQTYwMDE3",
+			"snippet": {
+				"publishedAt": "2022-04-23T10:54:48Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 25-dars | 2-kitob",
+				"description": "\"Ka:na\" haqida.\n\"Ka:na\"ning ismni raf xabari nasb bo'ladi.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/yKEPHAXqlpw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/yKEPHAXqlpw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/yKEPHAXqlpw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/yKEPHAXqlpw/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/yKEPHAXqlpw/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 26,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "yKEPHAXqlpw"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "yKEPHAXqlpw",
+				"videoPublishedAt": "2022-05-30T04:00:21Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "fXwyouJqh6SQwjJykeTQV80OHWA",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai44Mjc5REFBRUE2MTdFRDU0",
+			"snippet": {
+				"publishedAt": "2022-04-24T06:44:29Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 26-dars | 2-kitob",
+				"description": "\"Misol\" fe'llar - birinchi harfi illatli fe'llardir.\nBirinchi harfi \"vav\" illatli harf bilan boshlangan fe'llar muzoriy va amrda \"vav\" harfi tushib qoladi.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/YKXFtlBADQA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/YKXFtlBADQA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/YKXFtlBADQA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/YKXFtlBADQA/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/YKXFtlBADQA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 27,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "YKXFtlBADQA"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "YKXFtlBADQA",
+				"videoPublishedAt": "2022-06-01T04:00:24Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "pIFwKNm3A0oAeXmhnKb7YLsL1C0",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai43NDhFRTgwOTRERTU4Rjg3",
+			"snippet": {
+				"publishedAt": "2022-04-27T05:55:18Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 27-dars | 2-kitob",
+				"description": "Ajvaf - o'rtasi illatli bo'lgan fe'llardir.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/fYBXX2A-FPA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/fYBXX2A-FPA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/fYBXX2A-FPA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/fYBXX2A-FPA/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/fYBXX2A-FPA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 28,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "fYBXX2A-FPA"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "fYBXX2A-FPA",
+				"videoPublishedAt": "2022-06-03T04:00:11Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "UZ2frmqjgvIXx2zVFaQwbLBLaGw",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai41QUZGQTY5OTE4QTREQUU4",
+			"snippet": {
+				"publishedAt": "2022-04-28T15:41:51Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 28-dars | 2-kitob",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ymNPevXpM_s/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ymNPevXpM_s/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ymNPevXpM_s/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/ymNPevXpM_s/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/ymNPevXpM_s/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 29,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "ymNPevXpM_s"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "ymNPevXpM_s",
+				"videoPublishedAt": "2022-06-05T04:00:18Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "ZK2VJ3RmiKv_hcMeh9uBFUmN4w4",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai4zRDBDOEZDOUM0MDY5NEEz",
+			"snippet": {
+				"publishedAt": "2022-04-28T19:01:27Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 29-dars | Muzoaf",
+				"description": "Muzoaf - ikkinchi va uchinchi harfi bir xil bo'lgan harflardir.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/sn4nJ6uljs8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/sn4nJ6uljs8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/sn4nJ6uljs8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/sn4nJ6uljs8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/sn4nJ6uljs8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 30,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "sn4nJ6uljs8"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "sn4nJ6uljs8",
+				"videoPublishedAt": "2022-06-07T04:00:19Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "LeNPCqKsR4jppjAoC4kJ5_dWHGA",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai5CMEQ2Mjk5NTc3NDZFRUNB",
+			"snippet": {
+				"publishedAt": "2022-04-29T07:28:08Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 30-dars | 2-kitob",
+				"description": "Ikkilik haqida",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/wZ0FU3MU698/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/wZ0FU3MU698/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/wZ0FU3MU698/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/wZ0FU3MU698/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/wZ0FU3MU698/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 31,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "wZ0FU3MU698"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "wZ0FU3MU698",
+				"videoPublishedAt": "2022-06-09T04:00:30Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "FPWCu85dkKt0bSEj2El0ZeCwUB0",
+			"id": "UExWdUlBS05pUlJwNWRKNlgxWmVtZG5kT183eDd0d0VEai42MTI4Njc2QjM1RjU1MjlG",
+			"snippet": {
+				"publishedAt": "2022-04-29T09:27:51Z",
+				"channelId": "UChaznHfWg1WCY9LCCvx2YQw",
+				"title": "Oson arab tili | 31-dars | 2-kitob",
+				"description": "Sifatning mavsufga moslashishi. Kitob yakuni",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/bNWGi-aEo5A/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/bNWGi-aEo5A/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/bNWGi-aEo5A/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/bNWGi-aEo5A/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/bNWGi-aEo5A/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hakim Shoshiy",
+				"playlistId": "PLVuIAKNiRRp5dJ6X1ZemdndO_7x7twEDj",
+				"position": 32,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "bNWGi-aEo5A"
+				},
+				"videoOwnerChannelTitle": "Hakim Shoshiy",
+				"videoOwnerChannelId": "UChaznHfWg1WCY9LCCvx2YQw"
+			},
+			"contentDetails": {
+				"videoId": "bNWGi-aEo5A",
+				"videoPublishedAt": "2022-06-11T04:00:26Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		}
+	],
+	"pageInfo": {
+		"totalResults": 33,
+		"resultsPerPage": 50
+	}
+}
