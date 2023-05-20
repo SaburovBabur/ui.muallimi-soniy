@@ -29,41 +29,10 @@ function Header({ children }: HeaderProps) {
 
 	return (
 		<>
-			<header className="flex-col md:flex-row space-y-5 md:space-y-0 flex items-center justify-between">
+			<header>
 				<Link href={'/'}>
-					<Logo className="h-5" />
+					<Logo />
 				</Link>
-
-				<Tabs
-					onChange={(tab) => console.log(tab)}
-					value={activeTab()}
-					tabs={[
-						{
-							jsx: (
-								<Link href={`/durusul-lugah`} className="px-2 py-1 md:px-4 md:py-1 block">
-									durusul lug`ah
-								</Link>
-							),
-							value: 'durusul-lugah',
-						},
-						{
-							jsx: (
-								<Link href={`/ajurrumiyya`} className="px-2 py-1 md:px-4 md:py-1 block">
-									ajurrumiyya
-								</Link>
-							),
-							value: 'ajurrumiyya',
-						},
-						{
-							jsx: (
-								<Link href={`/nahv-tatbiqiy`} className="px-2 py-1 md:px-4 md:py-1 block">
-									nahv tatbiqiy
-								</Link>
-							),
-							value: 'nahv-tatbiqiy',
-						},
-					]}
-				/>
 			</header>
 
 			{children}

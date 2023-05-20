@@ -1,7 +1,7 @@
-function Logo(props: any) {
+function Logo() {
 	return (
 		<h3 className="p !font-bold">
-			<span className="text-primary-def">/</span> Hakim Shoshiy
+			Muallimi Soniy<span className="text-primary-def">.</span>
 		</h3>
 	)
 }
