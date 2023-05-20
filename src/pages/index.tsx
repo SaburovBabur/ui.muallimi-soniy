@@ -6,17 +6,17 @@ import { CaseSensitive, ChevronRight, Moon } from 'lucide-react'
 function Course() {
 	return (
 		<HomeLayout>
-			<div className="h-[20px] md:h-[50px]" />
+			<div className="h-[30px] md:h-[50px]" />
 
 			<h3 className="h3">{title()}</h3>
 
 			<div className="h-[45px]" />
 
-			<h3 className="p">{description()}</h3>
+			<h3 className=" p">{description()}</h3>
 
-			<div className="h-[70px]" />
+			<div className="h-[50px] md:h-[50px]" />
 
-			<div className="w-2/3 space-y-7">
+			<div className="w-full md:w-2/3 space-y-7">
 				{modules().map((module) => (
 					<Link
 						href={module.href}
@@ -32,7 +32,7 @@ function Course() {
 				))}
 			</div>
 
-			<div className="h-[70px]" />
+			<div className="md:h-[250px] h-[150px]" />
 		</HomeLayout>
 	)
 }
