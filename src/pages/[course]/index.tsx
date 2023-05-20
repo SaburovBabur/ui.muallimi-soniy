@@ -64,7 +64,7 @@ function Lesson({ course }: any) {
 
 						<Link
 							href={`${router.asPath}/${lesson.slug}`}
-							className="p block w-full hover:text-primary-def duration-def cursor-pointer hover:bg-[#00DA83]/10 px-5 py-2 ml-1 rounded-md"
+							className="p block w-full lowercase hover:text-primary-def duration-def cursor-pointer hover:bg-[#00DA83]/10 px-5 py-2 ml-1 rounded-md"
 						>
 							{lesson.title}
 						</Link>
