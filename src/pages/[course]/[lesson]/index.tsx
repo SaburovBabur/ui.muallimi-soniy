@@ -19,10 +19,7 @@ export async function getLesson({ bookName, slug }: { bookName: string; slug: st
 		throw new Error()
 	}
 
-	const res = await fetch(
-		`${process.env.NODE_ENV === 'development' ? process.env.URL : 'https://shoshiy-yasiin-uz.vercel.app'}/${book.json}`,
-		{ method: 'get' }
-	).then((res) => res.json())
+	const res = await fetch(`${process.env.URL}/${book.json}`, { method: 'get' }).then((res) => res.json())
 
 	let index = 1
 
