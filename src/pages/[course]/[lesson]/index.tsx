@@ -34,7 +34,7 @@ export async function getLesson({ bookName, slug }: { bookName: string; slug: st
 	const next = res.items[index + 1]
 
 	return {
-		html: `<iframe width="100%" class=' aspect-video' src="https://www.youtube-nocookie.com/embed/${lesson.contentDetails.videoId}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`,
+		html: `<iframe width="100%" height="300" src="https://www.youtube-nocookie.com/embed/${lesson.contentDetails.videoId}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`,
 		title: lesson.snippet.title,
 		slug: lesson.contentDetails.videoId,
 		description: lesson.snippet.description,
