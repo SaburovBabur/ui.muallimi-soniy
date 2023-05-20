@@ -1,37 +1,9 @@
 import Link from 'next/link'
-import { TypeCourse, courses, description, title } from '@/data'
+import { description, modules, title } from '@/data'
 import { HomeLayout } from '@/components/Layout'
 import { CaseSensitive, ChevronRight, Moon } from 'lucide-react'
 
-export async function getStaticPaths(params: any) {
-	return {
-		paths: [],
-		fallback: 'blocking',
-	}
-}
-
-export async function getStaticProps(context: any) {
-	const { course: courseName } = context.params
-
-	return {
-		props: { courses: courses(), courseName },
-	}
-}
-
-const modules = [
-	{
-		title: `Xarflar`,
-		icon: <CaseSensitive size={20} />,
-		href: `/xarflar`,
-	},
-	{
-		title: `Tajvid`,
-		icon: <Moon size={20} />,
-		href: `/tajvid`,
-	},
-]
-
-function Course({ courses, courseName }: { courses: TypeCourse[]; courseName: string }) {
+function Course() {
 	return (
 		<HomeLayout>
 			<div className="h-[20px] md:h-[50px]" />
@@ -45,7 +17,7 @@ function Course({ courses, courseName }: { courses: TypeCourse[]; courseName: st
 			<div className="h-[70px]" />
 
 			<div className="w-2/3 space-y-7">
-				{modules.map((module) => (
+				{modules().map((module) => (
 					<Link
 						href={module.href}
 						key={module.title}

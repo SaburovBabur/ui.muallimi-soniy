@@ -1,0 +1,990 @@
+{
+	"kind": "youtube#playlistItemListResponse",
+	"etag": "m3k1Qg0CAXyOQ15U1vHjwWUSE10",
+	"nextPageToken": "EAAaBlBUOkNESQ",
+	"items": [
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "T0yL_1Sx2N9Lhdp9WU6GDWVizbc",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS41NkI0NEY2RDEwNTU3Q0M2",
+			"snippet": {
+				"publishedAt": "2021-06-10T18:50:43Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "1-dars | Muallimi Soniy",
+				"description": "1-dars | Muallimi Soniy",
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 0,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "ygJlc-i118c"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "ygJlc-i118c",
+				"videoPublishedAt": "2021-06-09T14:00:33Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "FZ6G-5VjXYTH2MqfoCXRa0VT64w",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS4yODlGNEE0NkRGMEEzMEQy",
+			"snippet": {
+				"publishedAt": "2021-06-10T18:50:46Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "2-dars | Muallimi Soniy",
+				"description": "2-dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 1,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "GFFaWRQ_Ziw"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "GFFaWRQ_Ziw",
+				"videoPublishedAt": "2021-06-11T14:00:13Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "9fX2fdkJlHDlTbW2-iPMlTmWn3E",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS4wMTcyMDhGQUE4NTIzM0Y5",
+			"snippet": {
+				"publishedAt": "2021-06-13T09:45:50Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "3-dars | Muallimi Soniy",
+				"description": "3-dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 2,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "HmrRg2VGPGk"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "HmrRg2VGPGk",
+				"videoPublishedAt": "2021-06-13T16:00:10Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "I6WDwFQgGEIYT24YIVUAYcvO9pc",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS41MjE1MkI0OTQ2QzJGNzNG",
+			"snippet": {
+				"publishedAt": "2021-06-13T09:45:53Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "4-dars | Muallimi Soniy",
+				"description": "4-dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 3,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "E3v8CwN4dS4"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "E3v8CwN4dS4",
+				"videoPublishedAt": "2021-06-15T16:00:12Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "KZ6_EdqVladp15v1SuOUrSbsspU",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS4wOTA3OTZBNzVEMTUzOTMy",
+			"snippet": {
+				"publishedAt": "2021-06-19T19:56:37Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "5-dars | Muallimi Soniy",
+				"description": "VA dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 4,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "Dz33SX3mmAc"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "Dz33SX3mmAc",
+				"videoPublishedAt": "2021-06-17T16:00:05Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "VRazcc2oerUQk48g4-wG3sz0_Eo",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS41MzJCQjBCNDIyRkJDN0VD",
+			"snippet": {
+				"publishedAt": "2021-06-21T18:16:30Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "6-dars | Muallimi Soniy",
+				"description": "YOZISH dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 5,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "z2FoR46yb6U"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "z2FoR46yb6U",
+				"videoPublishedAt": "2021-06-21T11:23:42Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "y-4tdp-SdtMjQFaEY8WSIzH3VQs",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS5DQUNERDQ2NkIzRUQxNTY1",
+			"snippet": {
+				"publishedAt": "2021-06-21T18:16:40Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "7-dars | Muallimi Soniy",
+				"description": "O'dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 6,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "TAZYEDdkgY8"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "TAZYEDdkgY8",
+				"videoPublishedAt": "2021-06-21T16:00:12Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "D4dnToTu3OQBCs93pIc1HiyRyIE",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS45NDk1REZENzhEMzU5MDQz",
+			"snippet": {
+				"publishedAt": "2021-06-25T13:54:17Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "8-dars | Muallimi Soniy",
+				"description": "O'dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 7,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "XhGT03XGwiE"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "XhGT03XGwiE",
+				"videoPublishedAt": "2021-06-23T16:00:14Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "4pu3ou2GPF6r1_4dg7lXIO4Vd5M",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS5GNjNDRDREMDQxOThCMDQ2",
+			"snippet": {
+				"publishedAt": "2021-06-26T08:06:23Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "9-dars | Muallimi Soniy",
+				"description": "VA dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 8,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "2h1hga0Sul8"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "2h1hga0Sul8",
+				"videoPublishedAt": "2021-06-25T16:00:12Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "F07gOsAdCK52dlwoeIVi9zkgdng",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS40NzZCMERDMjVEN0RFRThB",
+			"snippet": {
+				"publishedAt": "2021-06-26T20:08:56Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "10-dars | Muallimi Soniy",
+				"description": "VA dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 9,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "RUPLCvzd3sY"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "RUPLCvzd3sY",
+				"videoPublishedAt": "2021-06-26T15:02:00Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "u6c9ELLLv7qpIM-QLbFSI90P1yg",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS5EMEEwRUY5M0RDRTU3NDJC",
+			"snippet": {
+				"publishedAt": "2021-07-05T06:30:53Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "11-dars | Muallimi Soniy",
+				"description": "YOZISH dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 10,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "BUPK0tsRero"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "BUPK0tsRero",
+				"videoPublishedAt": "2021-06-27T15:00:12Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "jih3Tyg2Yh55o4HjRSnST4lhKuQ",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS45ODRDNTg0QjA4NkFBNkQy",
+			"snippet": {
+				"publishedAt": "2021-07-05T06:30:57Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "12-dars | Muallimi Soniy",
+				"description": "YOZISH dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 11,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "zGPhVtir62I"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "zGPhVtir62I",
+				"videoPublishedAt": "2021-06-28T15:13:51Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "ziCbV3DlikzeGyuVVuwFVyaAMm4",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS4zMDg5MkQ5MEVDMEM1NTg2",
+			"snippet": {
+				"publishedAt": "2021-07-05T06:31:01Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "13-dars | Muallimi Soniy",
+				"description": "YOZISH dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 12,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "rLMTY39y9K4"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "rLMTY39y9K4",
+				"videoPublishedAt": "2021-06-29T15:17:25Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "VlMTxq2SmLr4MNtSnyQOpDiRCUg",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS41Mzk2QTAxMTkzNDk4MDhF",
+			"snippet": {
+				"publishedAt": "2021-07-05T06:31:06Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "14-dars | Muallimi Soniy",
+				"description": "YOZISH dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 13,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "QJYsub7elHI"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "QJYsub7elHI",
+				"videoPublishedAt": "2021-07-01T15:33:24Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "8trG8vcdyB-tNtvluWuz136-EwI",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS5EQUE1NTFDRjcwMDg0NEMz",
+			"snippet": {
+				"publishedAt": "2021-07-05T06:31:09Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "15-dars | Muallimi Soniy",
+				"description": "YOZISH dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 14,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "opwM9wCjSCY"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "opwM9wCjSCY",
+				"videoPublishedAt": "2021-07-03T15:16:17Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "HQ_Nj76Sz536kDsFghy65Otojj0",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS41QTY1Q0UxMTVCODczNThE",
+			"snippet": {
+				"publishedAt": "2021-07-08T18:33:57Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "16-dars | Muallimi Soniy",
+				"description": "O'dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 15,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "TI8qNlY8WAo"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "TI8qNlY8WAo",
+				"videoPublishedAt": "2021-07-05T15:00:13Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "IodTTXmCyy7QOJ6ypYl3-zMjhLc",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS4yMUQyQTQzMjRDNzMyQTMy",
+			"snippet": {
+				"publishedAt": "2021-07-08T18:34:02Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "17-dars | Muallimi Soniy",
+				"description": "17-dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 16,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "u05mxYYV8LU"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "u05mxYYV8LU",
+				"videoPublishedAt": "2021-07-07T12:37:04Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "iU6Kcx0kpLk4hIgm96L-qwPTQeE",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS45RTgxNDRBMzUwRjQ0MDhC",
+			"snippet": {
+				"publishedAt": "2021-07-09T17:59:28Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "18-dars | Muallimi Soniy",
+				"description": "18-dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 17,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "F6OVUHCXC6s"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "F6OVUHCXC6s",
+				"videoPublishedAt": "2021-07-09T12:38:47Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "jclKxK9sK4ZYgG_hXnH7RIGAou0",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS5ENDU4Q0M4RDExNzM1Mjcy",
+			"snippet": {
+				"publishedAt": "2021-07-13T22:30:48Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "19-dars | Muallimi Soniy",
+				"description": "19-dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 18,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "sTNc9KXv4IM"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "sTNc9KXv4IM",
+				"videoPublishedAt": "2021-07-11T17:09:33Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "ehBI0M7QM114oPOvzNhG8DaAOeM",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS4yMDhBMkNBNjRDMjQxQTg1",
+			"snippet": {
+				"publishedAt": "2021-07-13T22:30:52Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "20-dars | Muallimi Soniy",
+				"description": "20-dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 19,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "f8_ijZDd6RU"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "f8_ijZDd6RU",
+				"videoPublishedAt": "2021-07-13T22:17:13Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "WFXXKOHjggKq8LawSxK8MJHUzGI",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS5GM0Q3M0MzMzY5NTJFNTdE",
+			"snippet": {
+				"publishedAt": "2021-07-21T16:48:31Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "21-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 20,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "rIi6anuj5Y4"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "rIi6anuj5Y4",
+				"videoPublishedAt": "2021-07-15T13:16:22Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "mJHLwKgJK6SoY8CiQypOAE7xxVg",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS4zRjM0MkVCRTg0MkYyQTM0",
+			"snippet": {
+				"publishedAt": "2021-07-21T16:48:36Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "22-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 21,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "HJR62EkzivM"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "HJR62EkzivM",
+				"videoPublishedAt": "2021-07-17T14:37:22Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "RW9_6RelO_pFkkQk9zJec0Oz0Ik",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS45NzUwQkI1M0UxNThBMkU0",
+			"snippet": {
+				"publishedAt": "2021-07-26T14:18:30Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "23-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 22,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "fW6bQoXs-o8"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "fW6bQoXs-o8",
+				"videoPublishedAt": "2021-07-23T15:00:43Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "kb9mDfqonI2SEc-iehc925JWtUI",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS5DNzE1RjZEMUZCMjA0RDBB",
+			"snippet": {
+				"publishedAt": "2021-07-26T14:18:35Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "24-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 23,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "WNtZAbmSTJA"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "WNtZAbmSTJA",
+				"videoPublishedAt": "2021-07-25T16:43:17Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "Ddi0I5I_aANluvDns9WOk8I3Gfk",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS43MTI1NDIwOTMwQjIxMzNG",
+			"snippet": {
+				"publishedAt": "2021-07-30T16:11:51Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "25-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 24,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "l2cp9-0AsaA"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "l2cp9-0AsaA",
+				"videoPublishedAt": "2021-07-27T15:34:50Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "F16UR7WzzSzeqiiL_AAYp7dN8YM",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+			"snippet": {
+				"publishedAt": "2021-07-30T16:12:02Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "26-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 25,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "av9eezoypOc"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "av9eezoypOc",
+				"videoPublishedAt": "2021-07-29T14:05:55Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "OREo_QIjgn65uY5M-wa8Ph5SaHI",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS4yQUE2Q0JEMTk4NTM3RTZC",
+			"snippet": {
+				"publishedAt": "2021-08-06T15:56:55Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "27-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 26,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "7Khuai3QtBU"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "7Khuai3QtBU",
+				"videoPublishedAt": "2021-07-31T15:41:35Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "c-OPaTpnNSUDlKVwf26ltPNmvS8",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS5DMkU4NTY1QUFGQTYwMDE3",
+			"snippet": {
+				"publishedAt": "2021-08-06T15:57:00Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "28-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 27,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "LK_KLaleuK8"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "LK_KLaleuK8",
+				"videoPublishedAt": "2021-08-02T13:50:50Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "Ph9UQHWx234NCek9SCykucIG0pE",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS44Mjc5REFBRUE2MTdFRDU0",
+			"snippet": {
+				"publishedAt": "2021-08-06T15:57:07Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "29-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 28,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "48dXwft3iGk"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "48dXwft3iGk",
+				"videoPublishedAt": "2021-08-04T15:30:01Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "_Y8uwnvo30drMLbEkh78pABsecw",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS43NDhFRTgwOTRERTU4Rjg3",
+			"snippet": {
+				"publishedAt": "2021-08-06T15:57:11Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "30-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 29,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "4Qy7j8mSimU"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "4Qy7j8mSimU",
+				"videoPublishedAt": "2021-08-06T15:19:03Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "sE6blY8ldx6VqQjfUABQQI7bCD4",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS41QUZGQTY5OTE4QTREQUU4",
+			"snippet": {
+				"publishedAt": "2021-08-09T18:54:35Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "31-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 30,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "gGeJ6202JUQ"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "gGeJ6202JUQ",
+				"videoPublishedAt": "2021-08-08T19:06:05Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "3JgVOS1hCn9EAGVS-zuGTw-Gcgc",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS4zRDBDOEZDOUM0MDY5NEEz",
+			"snippet": {
+				"publishedAt": "2021-08-14T17:46:30Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "32-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 31,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "c-MO8vIs4Qw"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "c-MO8vIs4Qw",
+				"videoPublishedAt": "2021-08-10T16:49:22Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "i7_RQ5UQ-r4aSbVpJhUqMvjgapM",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS5CMEQ2Mjk5NTc3NDZFRUNB",
+			"snippet": {
+				"publishedAt": "2021-08-14T17:46:35Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "33-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 32,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "66oGyG2QI5M"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "66oGyG2QI5M",
+				"videoPublishedAt": "2021-08-12T17:49:40Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "lxJFxSDiBXnucDk4pbLOtjxz_QM",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS42MTI4Njc2QjM1RjU1MjlG",
+			"snippet": {
+				"publishedAt": "2021-08-14T17:46:44Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "34-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 33,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "fxPXV_7CKs8"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "fxPXV_7CKs8",
+				"videoPublishedAt": "2021-08-14T13:01:42Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "3Ux1QLPhusPKJZhBtVhMGa_sObc",
+			"id": "UExncnVlVWZPU3k2dG9SN3N6MjdkbVBLMldQQk5WTHdSaS45RjNFMDhGQ0Q2RkFCQTc1",
+			"snippet": {
+				"publishedAt": "2021-10-07T04:58:16Z",
+				"channelId": "UCkMxuw12FFiA7FKDNAl0Uug",
+				"title": "35-dars | Muallimi Soniy",
+				"description": "ДАРС dars | Muallimi Soniy",
+
+				"channelTitle": "Muallimi Soniy",
+				"playlistId": "PLgrueUfOSy6toR7sz27dmPK2WPBNVLwRi",
+				"position": 34,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "ZCf29gAD46I"
+				},
+				"videoOwnerChannelTitle": "Muallimi Soniy",
+				"videoOwnerChannelId": "UCkMxuw12FFiA7FKDNAl0Uug"
+			},
+			"contentDetails": {
+				"videoId": "ZCf29gAD46I",
+				"videoPublishedAt": "2021-08-16T16:03:58Z"
+			},
+			"status": {
+				"privacyStatus": "public"
+			}
+		}
+	],
+	"pageInfo": {
+		"totalResults": 132,
+		"resultsPerPage": 50
+	}
+}
