@@ -1,7 +1,7 @@
 import Container from '@/components/Container'
 import { HomeLayout } from '@/components/Layout'
 import Logo from '@/components/Logo'
-import { TypeCourseLesson, courses } from '@/data'
+import { modules } from '@/data'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 
@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 }
 
 export async function getLesson({ bookName, slug }: { bookName: string; slug: string }) {
-	const book = courses().find((course) => (course.slug === bookName ? course : false))
+	const book = modules().find((module) => (module.href.replace('/', '') === bookName ? module : false))
 
 	if (!book) {
 		throw new Error()
@@ -43,12 +43,12 @@ export async function getLesson({ bookName, slug }: { bookName: string; slug: st
 		description: lesson.snippet.description,
 		prev: prev ? { title: prev.snippet.title, slug: prev.contentDetails.videoId } : null,
 		next: next ? { title: next.snippet.title, slug: next.contentDetails.videoId } : null,
-	} satisfies TypeCourseLesson & { description: string; prev: any; next: any }
+	}
 }
 
 export async function getStaticProps(context: any) {
 	try {
-		const { book: bookName, lesson: lessonName } = context.params
+		const { course: bookName, lesson: lessonName } = context.params
 		const lesson = await getLesson({ bookName, slug: lessonName })
 
 		return {
@@ -61,7 +61,7 @@ export async function getStaticProps(context: any) {
 	}
 }
 
-function Article({ lesson }: { lesson: TypeCourseLesson & { description: string; prev: any; next: any } }) {
+function Article({ lesson }: { lesson: any }) {
 	const router = useRouter()
 	const query = router.query
 
@@ -77,7 +77,7 @@ function Article({ lesson }: { lesson: TypeCourseLesson & { description: string;
 		<Container>
 			<header className="flex items-center justify-between py-7 md:py-10">
 				<Link
-					href={`/${query.course}/${query.book}`}
+					href={`/${query.course}/`}
 					className="bg-white/10 rounded-md flex items-center gap-2 justify-between py-1 px-3 active:scale-95 duration-def cursor-pointer select-none"
 				>
 					<svg
@@ -112,19 +112,19 @@ function Article({ lesson }: { lesson: TypeCourseLesson & { description: string;
 
 			<div className="h-[30px]" />
 
-			<div
+			{/* <div
 				className="whitespace-pre-line bg-white/20 px-3 py-3 rounded-md leading-9"
 				dangerouslySetInnerHTML={{
 					__html: lesson.description,
 				}}
-			/>
+			/> */}
 
 			<div className="h-[30px]" />
 
 			<div className="grid md:grid-cols-2 grid-cols-1 gap-7 md:gap-10">
 				{lesson.prev ? (
 					<Link
-						href={`/${router.query.course}/${router.query.book}/${lesson.prev.slug}`}
+						href={`/${router.query.course}/${lesson.prev.slug}`}
 						className="bg-white/10 rounded-md flex items-center gap-3 justify-between py-3 px-3 active:scale-95 duration-def cursor-pointer select-none"
 					>
 						<svg
@@ -146,7 +146,7 @@ function Article({ lesson }: { lesson: TypeCourseLesson & { description: string;
 
 				{lesson.next ? (
 					<Link
-						href={`/${router.query.course}/${router.query.book}/${lesson.next.slug}`}
+						href={`/${router.query.course}/${lesson.next.slug}`}
 						className="bg-white/10 rounded-md flex items-center gap-3 justify-between py-3 px-3 active:scale-95 duration-def cursor-pointer select-none"
 					>
 						<p className="p">{lesson.next.title}</p>
