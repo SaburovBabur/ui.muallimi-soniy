@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { description, modules, title } from '@/data'
 import { HomeLayout } from '@/components/Layout'
-import { CaseSensitive, ChevronRight, Moon } from 'lucide-react'
+import { ChevronRight } from 'lucide-react'
 
 function Course() {
 	return (
