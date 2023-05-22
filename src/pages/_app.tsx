@@ -17,17 +17,17 @@ export default function MyApp({ Component, pageProps }: AppProps) {
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<meta name="theme-color" content="#000000" />
 				{/* <!-- Primary Meta Tags --> */}
-				<title>Hakim Shoshiy - Yaseen.uz ⚡</title>
-				<meta property="og:image" content="/bg.png" />
-				<meta name="title" content="Hakim Shoshiy - Yaseen.uz ⚡" />
-				<meta name="description" content="Hakim Shoshiy - Yaseen.uz" />
+				<title>Muallimi Soniy - Yaseen.uz ⚡</title>
+				<meta property="og:image" content="/bg.webp" />
+				<meta name="title" content="Muallimi Soniy - Yaseen.uz" />
+				<meta name="description" content="Muallimi Soniy - Yaseen.uz" />
 
 				{/* <!-- Twitter --> */}
 				<meta property="twitter:card" content="summary_large_image" />
-				<meta property="twitter:url" content="https://www.Hakim Shoshiy - Yaseen.uz/" />
-				<meta property="twitter:title" content="Hakim Shoshiy - Yaseen.uz ⚡" />
-				<meta property="twitter:description" content="Hakim Shoshiy - Yaseen.uz" />
-				<meta property="twitter:image" content="/bg.png" />
+				<meta property="twitter:url" content="https://www.muallimi.yaseen.uz/" />
+				<meta property="twitter:title" content="Muallimi Soniy - Yaseen.uz" />
+				<meta property="twitter:description" content="Muallimi Soniy - Yaseen.uz" />
+				<meta property="twitter:image" content="/bg.webp" />
 			</Head>
 
 			<div className={dm_sans.className}>
